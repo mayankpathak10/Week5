@@ -1,3 +1,15 @@
+/**
+ * @file    main.cpp
+ * @author  Mayank Pathak
+ * @version 1.0
+ * @copyright GNU Public License
+ * 
+ * @section DESCRIPTION
+ * 
+ * The main file to run the program for valgrind exercise.
+ * @dependencies: AnalogSensor.cpp, AnalogSensor.hpp
+ */
+
 #include <iostream>
 #include <AnalogSensor.hpp>
 

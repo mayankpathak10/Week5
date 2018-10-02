@@ -1,3 +1,16 @@
+/**
+ * @file    AnalogSensor.hpp
+ * @author  Mayank Pathak
+ * @version 1.0
+ * @copyright GNU Public License
+ * 
+ * @section DESCRIPTION
+ * 
+ * A header file to define the class and methods used by
+ * main file.
+ */
+
+
 #pragma once
 
 #ifndef INCLUDE_LIB_HPP_
